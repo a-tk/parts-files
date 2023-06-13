@@ -954,6 +954,10 @@
     (uuid fc93a968-8a45-437c-80f4-a373e1e28c81)
   )
 
+  (text "CHANGE R3 IF 555_VIN > 5V" (at 189.23 153.67 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid bf19962e-2c1e-462b-a58f-25ae597e5b13)
+  )
   (text "JUMPER IF VCC < 16V\nREG NOT NEEDED" (at 87.63 48.26 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d3ab4e7a-157b-4e6b-8986-b291955c9591)
