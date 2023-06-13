@@ -32,7 +32,9 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "pin_not_connected|342900|279400|dc2c8f42-1f20-4836-ba06-d7caa93f32e3|00000000-0000-0000-0000-000000000000|||"
+    ],
     "meta": {
       "version": 0
     },
