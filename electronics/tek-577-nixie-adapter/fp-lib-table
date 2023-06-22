@@ -3,4 +3,5 @@
   (lib (name "mynixies")(type "Eagle")(uri "${KIPRJMOD}/resources/mynixies.lbr")(options "")(descr ""))
   (lib (name "nixie-misc")(type "Eagle")(uri "${KIPRJMOD}/resources/nixiemisc.lbr")(options "")(descr ""))
   (lib (name "nixie-us")(type "Eagle")(uri "${KIPRJMOD}/resources/nixies-us.lbr")(options "")(descr ""))
+  (lib (name "Grayhill-Switch")(type "KiCad")(uri "${KIPRJMOD}/resources/Grayhill-Switch.pretty")(options "")(descr ""))
 )
